@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+1	q68c0V	PZDv9C	outcome	exposure	0.0204628752040471	0.0183154216960484	0.314678146402953

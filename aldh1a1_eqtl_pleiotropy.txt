@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+1	ve60IO	MFJ1wo	outcome	exposure	-0.00484717605864226	0.00595379006388856	0.421405033256683

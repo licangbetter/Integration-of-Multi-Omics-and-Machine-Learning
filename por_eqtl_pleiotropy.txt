@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+1	OBLwau	2ICaMv	outcome	exposure	0.0032503241449779	0.00457487680758207	0.480585611049533

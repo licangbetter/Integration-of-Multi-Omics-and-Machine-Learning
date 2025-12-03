@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+1	wfwvO9	EdimZo	outcome	exposure	0.00460740599581168	0.00403699450964466	0.258691681158777

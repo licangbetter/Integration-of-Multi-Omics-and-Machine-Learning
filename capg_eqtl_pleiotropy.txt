@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+1	2P6ZWq	ggnxts	outcome	exposure	0.00323262405230468	0.00483718447216857	0.507887039757648
