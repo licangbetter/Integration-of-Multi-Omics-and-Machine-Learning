@@ -1,0 +1,10 @@
+Performance comparison of three types of data across eight models					
+Model	AUC (Local without CAPG)	AUC (Local with CAPG)	AUC (MIMIC without CAPG)	¦¤AUC (vs Local)	¦¤AUC (vs MIMIC)
+XGBoost	0.7237	0.8359	0.8251	0.1122	0.0108
+Gradient Boosting	0.7721	0.8499	0.8137	0.0778	0.0362
+AdaBoost	0.7875	0.8303	0.7929	0.0428	0.0375
+K-Nearest Neighbors	0.7503	0.793	0.7754	0.0427	0.0176
+Gaussian Naive Bayes	0.7681	0.8045	0.7756	0.0364	0.0289
+SVM Linear	0.7904	0.8192	0.7901	0.0288	0.0291
+LDA	0.7906	0.8184	0.7881	0.0278	0.0303
+Logistic Regression	0.7942	0.8206	0.7902	0.0264	0.0304
