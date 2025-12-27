@@ -1,5 +1,5 @@
 Project Code Repository: File Descriptions	
-"This repository contains all data, intermediate results, and analytical outputs generated for the study?""Methylation-modified CAPG mediates bilirubin metabolism in sepsis via monocytes/macrophages derived from Integration of Multi-Omics and Machine Learning.""?The files support the full analytical pipeline, from multi-omics integration and causal inference to experimental validation and diagnostic model building, ensuring transparency and reproducibility."	
+This repository contains all data. "Methylation-modified CAPG mediates bilirubin metabolism in sepsis via monocytes/macrophages derived from Integration of Multi-Omics and Machine Learning".
 	
 1. Bulk Screening Results	
 These files contain the results of initial large-scale analyses used to screen for genes and proteins associated with sepsis risk.	
